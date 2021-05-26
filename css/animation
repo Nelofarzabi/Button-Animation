@@ -6,7 +6,7 @@
 		body{
 	margin: 0;
 	padding: 0;
-	background: #0c002b;
+	background: black;
 	font-family: sans-serif;
 }
 a{
@@ -124,7 +124,7 @@ a span:nth-child(4){
 		<span></span>
 		<span></span>
 		<span></span>
-		NELOFAR zabi(se)
+		WEB DEVELOPER 
 	</a>
 
 </body>
